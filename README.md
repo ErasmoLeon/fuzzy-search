@@ -6,7 +6,12 @@ El algoritmo fuzzy usado fue distancia de levenshtein. [https://en.wikipedia.org
 **Razón del uso:**
 
 Para el caso de uso actual y con la información que se proporcionó es irrelevante el tipo de algoritmo que se usa, pero en dado caso que el problema creciera o fuera mucho mas especifico en cuanto cantidad de información que se registrara, se podría reutilizar la distancia de levenshtein para implementar un algoritmo mas especifico adecuandolo a las necesidades con un mayor detalle, este algoritmo es más flexible y reutilizable.
+
 **Instrucciones.** 
+
+- Versión de node 
+> v8.12.0
+
 - Clonar repo
 >git clone https://github.com/ErasmoLeon/fuzzy-search.git
 
