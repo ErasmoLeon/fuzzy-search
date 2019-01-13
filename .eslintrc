@@ -1,0 +1,11 @@
+{
+  "extends": "airbnb",
+  "globals": {
+    "expect": false,
+    "jest": false,
+    "test": false
+  },
+  "rules": {
+    "linebreak-style": 0
+  }
+}
